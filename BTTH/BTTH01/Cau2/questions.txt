@@ -1,0 +1,69 @@
+Câu 1: Java là gì?
+A. Một loại thực phẩm
+B. Một ngôn ngữ lập trình
+C. Một loại phần mềm
+D. Một hệ điều hành
+Đáp án: B
+
+Câu 2: HTML được sử dụng để làm gì?
+A. Quản lý cơ sở dữ liệu
+B. Lập trình ứng dụng di động
+C. Xây dựng cấu trúc của trang web
+D. Tạo đồ họa 3D
+Đáp án: C
+
+Câu 3: Hệ điều hành nào là mã nguồn mở?
+A. Windows
+B. macOS
+C. Linux
+D. iOS
+Đáp án: C
+
+Câu 4: Trong ngôn ngữ lập trình Java, từ khóa `public` dùng để làm gì?
+A. Định nghĩa một hàm
+B. Định nghĩa lớp hoặc phương thức có thể truy cập từ mọi nơi
+C. Định nghĩa biến toàn cục
+D. Tạo đối tượng
+Đáp án: B
+
+Câu 5: HTML là viết tắt của gì?
+A. Hyper Text Markup Language
+B. High Text Markup Language
+C. Hyper Transfer Markup Language
+D. None of the above
+Đáp án: A
+
+Câu 6: CSS được sử dụng để làm gì trong phát triển web?
+A. Tạo nội dung trang web
+B. Xử lý dữ liệu từ server
+C. Định dạng và trình bày trang web
+D. Quản lý người dùng
+Đáp án: C
+
+Câu 7: Ngôn ngữ lập trình nào được sử dụng để phát triển ứng dụng Android?
+A. JavaScript
+B. Python
+C. Java
+D. C++
+Đáp án: C
+
+Câu 8: Dịch vụ Cloud Computing nào do Google cung cấp?
+A. Amazon Web Services
+B. Google Cloud
+C. Microsoft Azure
+D. IBM Cloud
+Đáp án: B
+
+Câu 9: Git là công cụ gì?
+A. Quản lý cơ sở dữ liệu
+B. Quản lý mã nguồn phân tán
+C. Tạo ứng dụng di động
+D. Phát triển giao diện người dùng
+Đáp án: B
+
+Câu 10: Phương thức nào trong Java được sử dụng để khởi tạo đối tượng?
+A. constructor
+B. main()
+C. init()
+D. start()
+Đáp án: A
